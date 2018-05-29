@@ -1,0 +1,10 @@
+C:\Users\v420559\Documents\GitHub\interview-questions\magic-square-grid-problem\bin\Debug\netcoreapp2.0\magic-square-grid-problem.deps.json
+C:\Users\v420559\Documents\GitHub\interview-questions\magic-square-grid-problem\bin\Debug\netcoreapp2.0\magic-square-grid-problem.runtimeconfig.json
+C:\Users\v420559\Documents\GitHub\interview-questions\magic-square-grid-problem\bin\Debug\netcoreapp2.0\magic-square-grid-problem.runtimeconfig.dev.json
+C:\Users\v420559\Documents\GitHub\interview-questions\magic-square-grid-problem\bin\Debug\netcoreapp2.0\magic-square-grid-problem.dll
+C:\Users\v420559\Documents\GitHub\interview-questions\magic-square-grid-problem\bin\Debug\netcoreapp2.0\magic-square-grid-problem.pdb
+C:\Users\v420559\Documents\GitHub\interview-questions\magic-square-grid-problem\obj\Debug\netcoreapp2.0\magic-square-grid-problem.csproj.CoreCompileInputs.cache
+C:\Users\v420559\Documents\GitHub\interview-questions\magic-square-grid-problem\obj\Debug\netcoreapp2.0\magic-square-grid-problem.AssemblyInfoInputs.cache
+C:\Users\v420559\Documents\GitHub\interview-questions\magic-square-grid-problem\obj\Debug\netcoreapp2.0\magic-square-grid-problem.AssemblyInfo.cs
+C:\Users\v420559\Documents\GitHub\interview-questions\magic-square-grid-problem\obj\Debug\netcoreapp2.0\magic-square-grid-problem.dll
+C:\Users\v420559\Documents\GitHub\interview-questions\magic-square-grid-problem\obj\Debug\netcoreapp2.0\magic-square-grid-problem.pdb

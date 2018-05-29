@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/magic-square-grid-problem/magic-square-grid-problem.csproj"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}
