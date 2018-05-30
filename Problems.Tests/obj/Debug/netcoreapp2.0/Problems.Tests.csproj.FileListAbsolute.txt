@@ -1,0 +1,16 @@
+C:\Users\v420559\documents\github\interview-questions\Problems.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\v420559\documents\github\interview-questions\Problems.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\v420559\documents\github\interview-questions\Problems.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\v420559\documents\github\interview-questions\Problems.Tests\bin\Debug\netcoreapp2.0\Problems.Tests.deps.json
+C:\Users\v420559\documents\github\interview-questions\Problems.Tests\bin\Debug\netcoreapp2.0\Problems.Tests.runtimeconfig.json
+C:\Users\v420559\documents\github\interview-questions\Problems.Tests\bin\Debug\netcoreapp2.0\Problems.Tests.runtimeconfig.dev.json
+C:\Users\v420559\documents\github\interview-questions\Problems.Tests\bin\Debug\netcoreapp2.0\Problems.Tests.dll
+C:\Users\v420559\documents\github\interview-questions\Problems.Tests\bin\Debug\netcoreapp2.0\Problems.Tests.pdb
+C:\Users\v420559\documents\github\interview-questions\Problems.Tests\bin\Debug\netcoreapp2.0\Problems.dll
+C:\Users\v420559\documents\github\interview-questions\Problems.Tests\bin\Debug\netcoreapp2.0\Problems.pdb
+C:\Users\v420559\documents\github\interview-questions\Problems.Tests\obj\Debug\netcoreapp2.0\Problems.Tests.csproj.CoreCompileInputs.cache
+C:\Users\v420559\documents\github\interview-questions\Problems.Tests\obj\Debug\netcoreapp2.0\Problems.Tests.AssemblyInfoInputs.cache
+C:\Users\v420559\documents\github\interview-questions\Problems.Tests\obj\Debug\netcoreapp2.0\Problems.Tests.AssemblyInfo.cs
+C:\Users\v420559\documents\github\interview-questions\Problems.Tests\obj\Debug\netcoreapp2.0\Problems.Tests.dll
+C:\Users\v420559\documents\github\interview-questions\Problems.Tests\obj\Debug\netcoreapp2.0\Problems.Tests.pdb
+C:\Users\v420559\Documents\GitHub\interview-questions\Problems.Tests\obj\Debug\netcoreapp2.0\Problems.Tests.csprojResolveAssemblyReference.cache
