@@ -1,9 +1,9 @@
-C:\Users\v420559\documents\github\interview-questions\Problems\bin\Debug\netstandard2.0\Problems.deps.json
-C:\Users\v420559\documents\github\interview-questions\Problems\bin\Debug\netstandard2.0\Problems.dll
-C:\Users\v420559\documents\github\interview-questions\Problems\bin\Debug\netstandard2.0\Problems.pdb
-C:\Users\v420559\documents\github\interview-questions\Problems\obj\Debug\netstandard2.0\Problems.csproj.CoreCompileInputs.cache
-C:\Users\v420559\documents\github\interview-questions\Problems\obj\Debug\netstandard2.0\Problems.AssemblyInfoInputs.cache
-C:\Users\v420559\documents\github\interview-questions\Problems\obj\Debug\netstandard2.0\Problems.AssemblyInfo.cs
-C:\Users\v420559\documents\github\interview-questions\Problems\obj\Debug\netstandard2.0\Problems.dll
-C:\Users\v420559\documents\github\interview-questions\Problems\obj\Debug\netstandard2.0\Problems.pdb
+C:\Users\v420559\Documents\GitHub\interview-questions\Problems\bin\Debug\netstandard2.0\Problems.deps.json
+C:\Users\v420559\Documents\GitHub\interview-questions\Problems\bin\Debug\netstandard2.0\Problems.dll
+C:\Users\v420559\Documents\GitHub\interview-questions\Problems\bin\Debug\netstandard2.0\Problems.pdb
 C:\Users\v420559\Documents\GitHub\interview-questions\Problems\obj\Debug\netstandard2.0\Problems.csprojResolveAssemblyReference.cache
+C:\Users\v420559\Documents\GitHub\interview-questions\Problems\obj\Debug\netstandard2.0\Problems.csproj.CoreCompileInputs.cache
+C:\Users\v420559\Documents\GitHub\interview-questions\Problems\obj\Debug\netstandard2.0\Problems.AssemblyInfoInputs.cache
+C:\Users\v420559\Documents\GitHub\interview-questions\Problems\obj\Debug\netstandard2.0\Problems.AssemblyInfo.cs
+C:\Users\v420559\Documents\GitHub\interview-questions\Problems\obj\Debug\netstandard2.0\Problems.dll
+C:\Users\v420559\Documents\GitHub\interview-questions\Problems\obj\Debug\netstandard2.0\Problems.pdb
