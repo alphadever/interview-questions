@@ -8,9 +8,10 @@ C:\Users\v420559\Documents\GitHub\interview-questions\Problems.Tests\bin\Debug\n
 C:\Users\v420559\Documents\GitHub\interview-questions\Problems.Tests\bin\Debug\netcoreapp2.0\Problems.Tests.pdb
 C:\Users\v420559\Documents\GitHub\interview-questions\Problems.Tests\bin\Debug\netcoreapp2.0\Problems.dll
 C:\Users\v420559\Documents\GitHub\interview-questions\Problems.Tests\bin\Debug\netcoreapp2.0\Problems.pdb
-C:\Users\v420559\Documents\GitHub\interview-questions\Problems.Tests\obj\Debug\netcoreapp2.0\Problems.Tests.csprojResolveAssemblyReference.cache
 C:\Users\v420559\Documents\GitHub\interview-questions\Problems.Tests\obj\Debug\netcoreapp2.0\Problems.Tests.csproj.CoreCompileInputs.cache
 C:\Users\v420559\Documents\GitHub\interview-questions\Problems.Tests\obj\Debug\netcoreapp2.0\Problems.Tests.AssemblyInfoInputs.cache
 C:\Users\v420559\Documents\GitHub\interview-questions\Problems.Tests\obj\Debug\netcoreapp2.0\Problems.Tests.AssemblyInfo.cs
 C:\Users\v420559\Documents\GitHub\interview-questions\Problems.Tests\obj\Debug\netcoreapp2.0\Problems.Tests.dll
 C:\Users\v420559\Documents\GitHub\interview-questions\Problems.Tests\obj\Debug\netcoreapp2.0\Problems.Tests.pdb
+C:\Users\v420559\Documents\GitHub\interview-questions\Problems.Tests\obj\Debug\netcoreapp2.0\Problems.Tests.csprojAssemblyReference.cache
+C:\Users\v420559\Documents\GitHub\interview-questions\Problems.Tests\obj\Debug\netcoreapp2.0\Problems.Tests.csproj.CopyComplete
