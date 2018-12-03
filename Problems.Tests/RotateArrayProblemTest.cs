@@ -24,5 +24,27 @@ namespace Problems.Tests
             var result = _problem.Rotate(input, k);
             Assert.Equal(res, result);
         }
+
+        [Fact]
+        public void Test2()
+        {
+            int k = 2;
+            int[] input = new int[] { -1, -100, 3, 99 };
+            int[] res = new int[] { 3, 99, -1, -100};
+
+            var result = _problem.Rotate(input, k);
+            Assert.Equal(res, result);
+        }
+
+        [Fact]
+        public void Test3()
+        {
+            int k = 2;
+            int[] input = new int[] { -1, 3};
+            int[] res = new int[] { -1, 3, };
+
+            var result = _problem.Rotate(input, k);
+            Assert.Equal(res, result);
+        }
     }
 }
