@@ -8,23 +8,20 @@ namespace Problems
     {
         public void MoveZeroes(int[] nums)
         {
-            Stack<int> s = new Stack<int>();
+            if (nums == null || nums.Length == 0)
+                return;
 
-            for (int i = 0; i < nums.Length; i++)
+            int index = 0;
+            foreach (var item in nums)
             {
-                if(nums[i].Equals(0))
+                if (item != 0)
                 {
-                    s.Push(nums[nums.Length - i]);
-                    nums[nums.Length - i] = nums[i];
+                    nums[index++] = item;
                 }
             }
-        }
-
-        public void ShiftToLeft(int[] nums, int i = 0)
-        {
-            while(i < nums.Length)
+            for (int i = 0; i < nums.Length - index; i++)
             {
-
+                nums[nums.Length - i - 1] = 0;
             }
         }
     }
